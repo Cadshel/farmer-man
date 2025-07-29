@@ -26,19 +26,6 @@ This application has been designed with a focus on usability in rural areas, tar
 
 ---
 
-## User Interface and Accessibility Design
-
-- **Accessible Touch Targets**: Minimum touch size of 48dp to ensure usability on small screens.
-- **High-Contrast Color Palette**:
-  - Agricultural Green: `#22C55E`
-  - Earth Brown: `#A3620A`
-  - Sky Blue: `#3B82F6`
-- **Iconography**: Utilizes Lucide Icons optimized for agricultural contexts.
-- **Language Switcher**: Permanently visible on all major screens.
-- **Visual Feedback for Voice Input**: Prepared for integration with real-time voice processing.
-
----
-
 ## Technology Stack
 
 | Component                 | Technology                       |
@@ -63,7 +50,7 @@ This application has been designed with a focus on usability in rural areas, tar
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/kisan-saathi.git
+git clone https://github.com/Cadshel/kisan-saathi.git
 cd kisan-saathi
 
 # Install dependencies
