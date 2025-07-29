@@ -12,7 +12,7 @@ This application has been designed with a focus on usability in rural areas, tar
 
 ---
 
-## Core Features (Phase 1 – Expo Managed Workflow)
+## Core Features
 
 - **Tab-Based Navigation**: Simplified layout with icon-driven access to core sections.
 - **Multilingual Interface**: Supports English and Hindi, with a framework prepared for seven Indian languages.
